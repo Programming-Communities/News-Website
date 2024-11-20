@@ -5,3 +5,5 @@ run this come
 
 npm i
 open done http://localhost:3000/
+
+![alt text](<Screenshot 2024-11-20 053317.png>)
